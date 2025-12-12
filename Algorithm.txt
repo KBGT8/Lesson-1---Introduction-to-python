@@ -1,0 +1,4 @@
+Take two variables: a and b which stores two numbers in them. For example: a = 2, b = 5
+Take another variable called result which holds the result in that
+Result = a + b 
+Print result to see the addition of the two numbers
